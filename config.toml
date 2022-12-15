@@ -1,3 +1,46 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL = "https://www.nog.net/"
+languageCode = "en-us"
+title = "The Nog Network"
+theme = "hugo-coder"
+permalink = "https://www.nog.net/"
+
+[params]
+author = "Tony Monroe"
+#description = ""
+keywords = "personal,automation,infrastructure,sre"
+info = ["Automation", "Infrastructure", "SRE"]
+license = '<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>'
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 5
+rl = "https://twitter.com/tsmatwork/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/tsmatwork"
+
+[[params.social]]
+name = "Fediverse"
+icon = "fa fa-2x fa-mastodon"
+weight = 3
+url = "https://noc.social/@tsmatwork"
+rel = "me"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Experience"
+weight = 3
+url = "experience/"
+
+[[languages.en.menu.main]]
+name = "Contact"
+weight = 5
+url = "contact/"
