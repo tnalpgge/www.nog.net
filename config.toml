@@ -32,15 +32,20 @@ rel = "me"
 
 [[languages.en.menu.main]]
 name = "About"
-weight = 1
+weight = 10
 url = "about/"
 
 [[languages.en.menu.main]]
 name = "Experience"
-weight = 3
+weight = 30
 url = "experience/"
 
 [[languages.en.menu.main]]
+name = "Posts"
+weight = 50
+url = "posts/"
+
+[[languages.en.menu.main]]
 name = "Contact"
-weight = 5
+weight = 99
 url = "contact/"
