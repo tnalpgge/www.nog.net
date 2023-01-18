@@ -1,6 +1,8 @@
-#+hugo_base_dir: .
+#+hugo_base_dir: ..
 * The Nog Network
 :PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_FILE_NAME: _index
 :END:
 * About
 :PROPERTIES:
