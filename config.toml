@@ -30,6 +30,12 @@ weight = 3
 url = "https://noc.social/@tsmatwork"
 rel = "me"
 
+[[params.social]]
+name = "GitHub"
+icon = "fa fa-2x fa-github"
+weight = 2
+url = "https://github.com/tnalpgge"
+
 [[languages.en.menu.main]]
 name = "About"
 weight = 10
