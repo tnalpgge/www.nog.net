@@ -1,0 +1,21 @@
+#+hugo_base_dir: ..
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: about
+:EXPORT_HUGO_MENU: :menu "main"
+:END:
+** About Me
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:END:
+I have over 25 years experience as an individual contributor in information technology, computer system administration, site reliability engineering, and software development.   I have been working remotely almost exclusively for over 7 years, with teammates in several time zones and continents.
+
+I find opportunities for automation and integration, reducing toil and tedium for teammates and the organization, freeing more cycles for the people to spend on advancing the goals of the organization, and enabling people to enjoy their time away from work uninterrupted.
+
+I collaborate daily with teammates in a virtual office, trading feedback and advice so that we can achieve quality results together.  I share knowledge freely with my teammates and my organization through documentation, presentations, video conferences, and chat channels.  I encourage teammates and co-workers to do the same so that we can all improve together.  I endeavor to avoid the problem of indispensible individuals in a team or organization.  I foster open and honest communication and feedback with peers and managers.
+
+I like to work on self-organizing teams that have latitude to make important decisions about how the organization achieves its goals.  I expect the organization to hold the team accountable for what it decides and implements, and to support the team's decisions and actions in pursuit of those goals.
+
+I enjoy learning, and I find the successful application of gained knowledge in real-world scenarios to be very rewarding.
+
+I believe that experience and deeds speak louder and more clearly than buzzwords, jargon, labels, and certifications.

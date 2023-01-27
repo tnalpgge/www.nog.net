@@ -4,23 +4,3 @@
 :EXPORT_HUGO_SECTION:
 :EXPORT_FILE_NAME: _index
 :END:
-* About
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: about
-:EXPORT_HUGO_MENU: :menu "main"
-:END:
-* Experience
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: experience
-:EXPORT_HUGO_MENU: :menu "main"
-:END:
-* Posts
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: posts
-:EXPORT_HUGO_MENU: :menu "main"
-:END:
-* Contact
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: contact
-:EXPORT_HUGO_MENU: :menu "main"
-:END:
